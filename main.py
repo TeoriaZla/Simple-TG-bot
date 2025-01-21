@@ -4,8 +4,8 @@ import datetime
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "7462566515:AAGXkd-IHusNfuS7rVjntrb4zg_GCF5eK8w"
-ADMIN_USER_ID = 765168009  # Замените на свой числовой user_id
+TOKEN = "*" * Замените на unique bot token from botfather
+ADMIN_USER_ID = #  # Замените на свой числовой user_id
 bot = telebot.TeleBot(TOKEN)
 
 # Инициализация базы данных
